@@ -6,7 +6,7 @@ PRN: 24070521242
 # Experiment 9: Basic Shell Commands and Shell Script - Arithmetic
 
 ## Aim
-To implement basic shell commands and write a shell script to perform arithmetic operations.
+To implement basic shell commands and shell scripts.
 
 ***
 
