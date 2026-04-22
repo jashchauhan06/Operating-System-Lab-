@@ -6,7 +6,7 @@ PRN: 24070521242
 # Experiment 10: Shell Script - if-else Conditional Statement
 
 ## Aim
-To write a shell script to demonstrate if-else conditional statements by calculating student grade based on marks.
+To write a shell script to demonstrate if-else conditional statement.
 
 ***
 
